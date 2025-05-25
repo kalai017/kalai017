@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Balaji+M.;Fullstack+Web+Developer+from+India;Always+learning+something+new!;MERN+Stack+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
-<img align="right" alt="Coding" width="400" src="cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450" />
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/04/18/78/83/240_F_418788325_i6Y7rhhH6Fijj1ARGVODN2CY19abXGy6.jpg" />
 
 - 🔭 I’m currently working on [Job Vacancy Discovery Platform – A MERN stack web application enabling job search, filtering, and real-time notifications.](https://github.com/kalai017/A-Job-Vacancy-Discovery-Platform)
 
@@ -26,6 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kalai017/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kalai017/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://github.com/kalai017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://github.com/kalai017" height="30" width="40" /></a>
+  <a href="https://github.com/kalai017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Balaji01725" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
