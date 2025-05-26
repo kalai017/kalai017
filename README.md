@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Kalai selvi+P.;Fullstack+Web+Developer+from+India;Always+learning+something+new!;MERN+Stack+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Kalaiselvi+P.;Fullstack+Web+Developer+from+India;Always+learning+something+new!;MERN+Stack+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/04/18/78/83/240_F_418788325_i6Y7rhhH6Fijj1ARGVODN2CY19abXGy6.jpg" />
 
